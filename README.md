@@ -1,2 +1,2 @@
 # CS344<\br>
-A collebration of assignment of class CS 344 in OSU
+A collection of assignments in class CS 344 in OSU
